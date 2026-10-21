@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/geopandas/governance/commit/0545dd6fe8fb95820152ebbcb8e8d71cc95cdcae",
       "git:hexsha": "0545dd6fe8fb95820152ebbcb8e8d71cc95cdcae",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:08:47.297721+00:00"
     }
   ]
 }
